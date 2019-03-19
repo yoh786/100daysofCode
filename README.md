@@ -2,6 +2,8 @@
 
 This is my .git to track my 100 day journey!
 
+*- Peter C# Parker*
+
 -------------
 
 **Rules are:**
